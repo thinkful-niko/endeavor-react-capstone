@@ -1,5 +1,4 @@
-import React, { Component } from 'react'
-import {connect} from 'react-redux';
+//import libraries
 import styled from "styled-components";
 
 const Button = styled.button`
